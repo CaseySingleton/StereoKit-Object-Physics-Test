@@ -1,0 +1,10 @@
+C:\Users\Casey\Source\Repos\MessingWithBounds\MessingWithBounds\bin\Debug\netcoreapp2.0\MessingWithBounds.deps.json
+C:\Users\Casey\Source\Repos\MessingWithBounds\MessingWithBounds\bin\Debug\netcoreapp2.0\MessingWithBounds.runtimeconfig.json
+C:\Users\Casey\Source\Repos\MessingWithBounds\MessingWithBounds\bin\Debug\netcoreapp2.0\MessingWithBounds.runtimeconfig.dev.json
+C:\Users\Casey\Source\Repos\MessingWithBounds\MessingWithBounds\bin\Debug\netcoreapp2.0\MessingWithBounds.dll
+C:\Users\Casey\Source\Repos\MessingWithBounds\MessingWithBounds\bin\Debug\netcoreapp2.0\MessingWithBounds.pdb
+C:\Users\Casey\Source\Repos\MessingWithBounds\MessingWithBounds\obj\Debug\netcoreapp2.0\MessingWithBounds.csprojAssemblyReference.cache
+C:\Users\Casey\Source\Repos\MessingWithBounds\MessingWithBounds\obj\Debug\netcoreapp2.0\MessingWithBounds.AssemblyInfoInputs.cache
+C:\Users\Casey\Source\Repos\MessingWithBounds\MessingWithBounds\obj\Debug\netcoreapp2.0\MessingWithBounds.AssemblyInfo.cs
+C:\Users\Casey\Source\Repos\MessingWithBounds\MessingWithBounds\obj\Debug\netcoreapp2.0\MessingWithBounds.dll
+C:\Users\Casey\Source\Repos\MessingWithBounds\MessingWithBounds\obj\Debug\netcoreapp2.0\MessingWithBounds.pdb
